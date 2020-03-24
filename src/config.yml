@@ -1,0 +1,11 @@
+enabledWorlds: [world, world_nether, world_the_end]
+deleteItemsInSlots: false
+#This allows a user to move the fill item in their inventory while in creative. (Recommended)
+allowClickInCreative: true
+#How often it sets the fill item in an inventory (Seconds)
+Timer Interval: 10
+FillItem:
+    fillItemMaterial: BLACK_STAINED_GLASS_PANE
+    qty: 1
+    #Prefered to keep this not blank. Might cause a bug with other plugins
+    name: "&0Locked"

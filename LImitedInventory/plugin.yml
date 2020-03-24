@@ -1,5 +1,0 @@
-name: LimitedInventory
-main: me.Arcator.LimitedInventory.Main
-description: Limit a player's inventory to just their hotbar
-version: 1.1
-api-version: 1.13
